@@ -12,7 +12,7 @@ The project was commissioned to analyze historical employee data to build a pred
 
 ## 🧾 Dataset Overview
 
-- **File**: [`HR_capstone_dataset.csv`](./HR_capstone_dataset.csv)
+- **File**: [`HR_capstone_dataset.csv`](./Raw-Dataset/HR_capstone_dataset.csv)
 - **Target Variable**: `left` (binary: 1 if the employee left the company, 0 otherwise)
 - **Key Features**:
   - `last_evaluation`
@@ -44,7 +44,7 @@ Models were trained to predict the binary target `left`:
 
 - **Logistic Regression** (baseline model)
 - **Decision Tree Classifier**
-- **Random Forest Classifier** (two variations with different hyperparameters)
+- **Random Forest Classifier** (two variations with different hyperparameters)(see [`models`](./models))
 
 ### 4. **Model Evaluation**
 - Accuracy, Precision, Recall, and F1-score
@@ -55,7 +55,7 @@ Models were trained to predict the binary target `left`:
 
 ## ✅ Key Insights
 
-(From [`Salifort-Employee-Retention-Executive-Summary.pdf`](./Salifort-Employee-Retention-Executive-Summary.pdf))
+(See [`Salifort-Employee-Retention-Executive-Summary.pdf`](./Executive-Summary/Salifort-Employee-Retention-Executive-Summary.pdf))
 
 - **Top Predictive Features**:
   - `last_evaluation`
@@ -75,7 +75,7 @@ Models were trained to predict the binary target `left`:
 
 ---
 
-## 📌 Milestones (as per [`Project Proposal`](./Salifort-Employee-Retention-Project-Proposal.pdf))
+## 📌 Milestones (as per [`Project Proposal`](./Project-Proposal/Salifort-Employee-Retention-Project-Proposal.pdf))
 
 | Stage     | Task                                                   |
 |-----------|--------------------------------------------------------|
@@ -99,7 +99,7 @@ Models were trained to predict the binary target `left`:
 
 **Shubham Thakur**  
 MBA - Business Analytics | Ex-Drone Engineer | Data & Strategy Enthusiast  
-📫 [LinkedIn](#) | [GitHub](#) | [Email](#)
+📫 [LinkedIn](https://www.linkedin.com/in/thakur-shubham-/) | [GitHub](https://github.com/Dexter1410/Dexter1410) | [Email](tshubham1410@gmail.com)
 
 ---
 
@@ -110,6 +110,16 @@ MBA - Business Analytics | Ex-Drone Engineer | Data & Strategy Enthusiast
 - Dataset: [`HR_capstone_dataset.csv`](./Raw-Dataset/HR_capstone_dataset.csv)  
 - Notebook: [`Salifort-Project-Notebook.ipynb`](./Salifort-Project-Notebook.ipynb)
 - Random Forest Models: ['hr_rf1.pickle and hr_rf2.pickle'](./models)
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Python** – Core programming language
+- **Pandas** – Data manipulation and cleaning
+- **Matplotlib & Seaborn** – Data visualization
+- **Scikit-learn** – Machine learning models and evaluation
+- **Jupyter Notebook** – Interactive development environment
 
 ---
 
