@@ -105,9 +105,9 @@ MBA - Business Analytics | Ex-Drone Engineer | Data & Strategy Enthusiast
 
 ## 📚 References
 
-- Project Proposal: [`Salifort-Employee-Retention-Project-Proposal.pdf`](.Project-Proposal/Salifort-Employee-Retention-Project-Proposal.pdf)  
-- Executive Summary: [`Salifort-Employee-Retention-Executive-Summary.pdf`](.Executive-Summary/Salifort-Employee-Retention-Executive-Summary.pdf)
-- Dataset: [`HR_capstone_dataset.csv`](.Raw-Dataset/HR_capstone_dataset.csv)  
+- Project Proposal: [`Salifort-Employee-Retention-Project-Proposal.pdf`](./Project-Proposal/Salifort-Employee-Retention-Project-Proposal.pdf)  
+- Executive Summary: [`Salifort-Employee-Retention-Executive-Summary.pdf`](./Executive-Summary/Salifort-Employee-Retention-Executive-Summary.pdf)
+- Dataset: [`HR_capstone_dataset.csv`](./Raw-Dataset/HR_capstone_dataset.csv)  
 - Notebook: [`Salifort-Project-Notebook.ipynb`](./Salifort-Project-Notebook.ipynb)
 - Random Forest Models: ['hr_rf1.pickle and hr_rf2.pickle'](./models)
 
